@@ -8,7 +8,7 @@
         <div class="info">
           <h5 class="hello">Hello</h5>
           <h1>{{info.name}}</h1>
-          <h6 class="text_hidden">{{info.job}}</h6>
+          <!-- <h6 class="text_hidden">{{info.job}}</h6> -->
           <ul>
             <li class="text_hidden"><b>出生年月：</b> <span>{{info.birth}}</span></li>
             <li class="text_hidden"><b>电子邮箱：</b> <span>{{info.email}}</span></li>
