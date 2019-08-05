@@ -5,12 +5,12 @@ Vue.use(Router)
 
 const Home = () => import('@/pages/home/home')
 export default new Router({
-	// mode: 'history',
+  // mode: 'history',
   routes: [
-  	{
-  	  path:"/",
-  	  redirect: '/index'
-  	},
+    {
+      path: "/",
+      redirect: '/index'
+    },
     {
       path: '/index',
       name: 'Home',

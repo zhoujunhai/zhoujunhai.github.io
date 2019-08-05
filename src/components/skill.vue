@@ -32,7 +32,10 @@ export default {
         { "type": "springboot", "percent": "70%" },
         { "type": "springcloud", "percent": "50%" },
         { "type": "mybatis", "percent": "60%" },
-        { "type": "mybatis", "hibernate": "50%" }
+        { "type": "hibernate", "percent": "50%" },
+        { "type": "oracle", "percent": "70%" },
+        { "type": "informix", "percent": "80%" },
+        { "type": "mysql", "percent": "80%" }
       ]
     }
   },

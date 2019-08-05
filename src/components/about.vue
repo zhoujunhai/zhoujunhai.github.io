@@ -122,6 +122,10 @@ export default {
 .a_info {
   width: 60%;
   margin: 0 auto;
+  padding: 6px 0 10px;
+  font-family: "Microsoft YaHei", sans-serif;
+  color: #2f2c06;
+  font-size: 36px;
 }
 .a_info ul {
   margin-top: 10px;
